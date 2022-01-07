@@ -43,5 +43,5 @@ The file is in JSON format you can change the format by using your respective pr
 **Note-**
 The celebrity data is extracted in bulk so there is a 0.01% possible of data accuracy, owner of this repository is responsible for any kind of loss.<br>
 Celebrities data is limited if you need more attributes such as celebrity image, age, you can contact the owner of this repository.<br>
-**Refernece -** [Famous People Birthday](https://www.birthday-age-calculator.com/famous-people-born-today)<br>
+**Refernece -** [Famous People Birthday](https://www.birthday-age-calculator.com/famous-people-born-today) and [https://www.famousbirthdays.com/](https://www.famousbirthdays.com/)<br>
 ***I hope you find the solution what you are looking for. Raise a issues if you want to know anything else.***
